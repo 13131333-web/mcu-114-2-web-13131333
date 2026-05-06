@@ -11,6 +11,11 @@ nav {
   margin-bottom: 10px;
 }
 
+section.body {
+  width: 90%;
+  margin: 0px auto;
+}
+
 .card {
   border-style: solid;
   border-color: #999;
